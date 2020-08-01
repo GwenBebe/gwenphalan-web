@@ -1,0 +1,24 @@
+.navbar-fill {
+  flex: 1 1 auto;
+}
+
+.side-nav-item {
+  mat-icon {
+    padding: 0px 10px 0px 0px;
+  }
+}
+
+.page-content {
+  height: calc(100% - 104px);
+  overflow-y: auto;
+}
+
+#nav-buttons {
+  padding: 0px 10px;
+}
+
+.login {
+  width: 100%;
+  position: absolute;
+  bottom: 4%;
+}
